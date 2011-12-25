@@ -1,0 +1,5 @@
+Resizes images to enable comparison between ImageMagick and PIL thumbnails.
+
+Place source images in `./images`.
+Thumbnails are placed in `./output`.
+
