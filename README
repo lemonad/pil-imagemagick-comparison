@@ -24,3 +24,6 @@ Resizes images to enable comparison between ImageMagick and PIL thumbnails.
 Place source images in `./images`.
 Thumbnails are placed in `./output`.
 
+Included test images are CC-licensed by Flickr user @visivo (check
+`./images/SOURCES-AND-LICENSES` for URLs and per image licenses)
+
